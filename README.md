@@ -1,2 +1,2 @@
-# coding-in-python
-just solving some problems in python
+# Alogoritmos de Programação em Python
+Códigos feitos no primeiro período 
